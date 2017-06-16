@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/man_of_steel_superman-919390391-large.jpg", EL HOMBRE DE ACERO
+http://streamcloud.eu/o8qk95bpebth
+#EXTINF:-1 tvg-logo="http://http://3.bp.blogspot.com/-Bz3fKVciix0/ViIPupxZtsI/AAAAAAAAOFM/ZWgEXIKWiA4/s1600/1941-movie-poster-1979-1020192151.jpg", 1941
+https://pgli8l.oloadcdn.net/dl/l/gLLqVzJVqv0zHtLf/wTmdZyi3f40/XX1941+HDTV-720?mime=true
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/medias/nmedia/18/90/05/09/20078386.jpg", PELICULA DEDICADA A JUANMI
 http://streamcloud.eu/wofz3o37an65/__las-cuatro-plumas.mp4.html
 #EXTINF:-1 tvg-logo="http://cultura.villarrobledo.com/wp-content/uploads/es-por-tu-bien.jpg",  ES POR TU BIEN
