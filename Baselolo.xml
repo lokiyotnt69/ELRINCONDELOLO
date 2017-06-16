@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR green]*EL[/COLOR][COLOR skyblue] RINCON[/COLOR][COLOR lime] DEL LOLO[/COLOR].</title>
+<title>[COLOR yellow]*EL[/COLOR][COLOR skyblue] RINCON[/COLOR][COLOR lime] DEL LOLO[/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -11,24 +11,25 @@
 </item>
 
  
+ 
 <item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]</title>
+<title>[COLOR yellow]*ZONA[/COLOR][COLOR skyblue] ESTRENOS[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELRINCONDELOLO/master/ESTRENOS.xml</externallink>
 </item>
  
 <item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
+<title>[COLOR yellow]*ZONA[/COLOR][COLOR skyblue] DIBUJOS [/COLOR][COLOR lime] ANIMADOS[/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELRINCONDELOLO/master/DIBUJOS%20ANIMADOS</externallink>
 </item>
 
 <item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]</title>
+<title>[COLOR yellow]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -36,7 +37,7 @@
 </item>
  
 <item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
+<title>[COLOR yellow]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
